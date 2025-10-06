@@ -65,10 +65,10 @@ gerenciador_hotel/
 
 ```bash
 # 1️⃣ Clone o repositório
-git clone https://github.com/seu-usuario/sistema-gerenciamento-hotel.git
+git clone https://github.com/FranciscoWan/gerenciador_hotel.git
 
 # 2️⃣ Acesse o diretório do projeto
-cd sistema-gerenciamento-hotel
+cd gerenciador_hotel
 
 # 3️⃣ Execute o programa
 python main.py
